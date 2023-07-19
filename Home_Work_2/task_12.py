@@ -21,5 +21,5 @@ for x in range(1, 1001):
         s_2 = x + y
         p_2 = x * y
         if s == s_2 and p == p_2:
-            print(f"Задуманные числа: {x} и {y}")
+            print(f'Задуманные числа: {x} и {y}')
             exit()
